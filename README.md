@@ -1,4 +1,4 @@
-# Pensa depois
+# About me
 
 # Learning Languages
 [![My Skills](https://skillicons.dev/icons?i=js,python,html,css)](https://skillicons.dev)
