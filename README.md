@@ -1,5 +1,4 @@
-# Hello, World!
-#👩🏻‍💻 Beatriz Honorato
+# 💗 Hello, World! I'm Beatriz Honorato
 
 # Learning Languages
 
